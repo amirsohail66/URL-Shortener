@@ -12,7 +12,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+   git clone https://github.com/amirsohail66/URL-Shortener
    cd url-shortener
    ```
 
@@ -33,7 +33,7 @@ To get started with this project, follow the steps below:
 
 ## Usage
 
-1. Open your browser and navigate to `http://localhost:3000` (or the appropriate port).
+1. Open your browser and navigate to `http://localhost:5173/` (or the appropriate port).
 2. Enter the URL you want to shorten in the input field.
 3. Click on the "Shorten" button.
 4. The shortened URL will be displayed. You can click the copy icon to copy it to the clipboard.
